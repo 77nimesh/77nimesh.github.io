@@ -1,0 +1,11 @@
+#main{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightblue;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+#div-main > #main:hover{
+    text-transform: uppercase;
+}
