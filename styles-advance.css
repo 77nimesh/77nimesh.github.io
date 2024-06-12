@@ -1,0 +1,110 @@
+.body-advance {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #000;
+}
+
+.container-adv {
+    text-align: left;
+}
+
+.logo-adv img {
+    width: 120px;
+}
+
+h1 {
+    color: #d93025;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.search-form {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.left, .right {
+    width: 45%;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 60%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.range {
+    width: 45%;
+    display: inline-block;
+}
+
+.range + span {
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 14px;
+}
+
+.right p {
+    font-size: 14px;
+    margin-bottom: -20px;
+    margin-top: 85px;
+    margin-left: -240px;
+}
+
+.find-pages {
+    font-weight: lighter;
+}
+
+.right b {
+    font-weight: lighter;
+}
+.top-links{
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    
+}
+
+.top-links a {
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 17px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.top-links a:first-child {
+    margin-left: 0;
+}
+
+.top-links a:hover {
+    text-decoration: underline;
+}
+.Ad-search {
+    margin-left: 17%;
+    font-size: 14px; 
+    font-weight: bold; 
+    background-color: rgb(51, 139, 247);
+    color: white;
+    border: 1px solid rgb(51, 139, 247);
+    border-radius: 4px; 
+    padding: 12px 24px; 
+    cursor: pointer;
+    box-shadow: 0px 1px 1px rgba(51, 139, 247);
+}
+
